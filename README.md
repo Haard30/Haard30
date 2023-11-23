@@ -37,7 +37,7 @@ Welcome to my profile! I am a Software Engineer at Microsoft ✨. I am passionat
   
 </p>
 
-### 🌱 I’m currently learning
+### 🌱 Currently Learning
 
 <p align="center">
   <img src="https://img.shields.io/badge/rust-9A0000?style=for-the-badge&logo=rust&logoColor=F0F0F0" />
