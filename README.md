@@ -38,6 +38,7 @@ Welcome to my profile! I am a Software Engineer at Microsoft ✨. I am passionat
 </p>
 
 ### 🌱 I’m currently learning
+
 <p align="center">
   <img src="https://img.shields.io/badge/rust-9A0000?style=for-the-badge&logo=rust&logoColor=F0F0F0" />
   <img src="https://img.shields.io/badge/next-000000?style=for-the-badge&logo=nextdotjs&logoColor=F0F0F0" />
@@ -45,7 +46,6 @@ Welcome to my profile! I am a Software Engineer at Microsoft ✨. I am passionat
 
 ## 📊 GitHub Stats
 
-### Stats
 <p align="center">
   <img height=195 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haard30&theme=onedark&layout=donut" />
 </p>
@@ -54,6 +54,7 @@ Welcome to my profile! I am a Software Engineer at Microsoft ✨. I am passionat
 </p>
 
 ### 👾 Contribution Graph
+
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Haard30/Haard30/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Haard30/Haard30/output/github-contribution-grid-snake.svg">
@@ -61,6 +62,7 @@ Welcome to my profile! I am a Software Engineer at Microsoft ✨. I am passionat
 </picture>
 
 ## 📫 Reach out to me:
+
 <p align="center">
   <a href="https://www.linkedin.com/in/haardshah/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
