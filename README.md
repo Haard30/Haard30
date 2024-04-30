@@ -69,7 +69,7 @@ In my free time, I enjoy playing sports, listening to music and visiting local c
 
 ### Technical Books
 
-1. [Generative Deep Learning by David Foster](https://www.oreilly.com/library/view/generative-deep-learning/9781098134174/)
+1. [Generative Deep Learning by David Foster.](https://www.oreilly.com/library/view/generative-deep-learning/9781098134174/)
 2. [Designing Data-Intensive Applications.](https://www.oreilly.com/library/view/designing-data-intensive-applications/9781491903063/)
 3. [The Rust Book.](https://doc.rust-lang.org/book/)
 4. [Clean Code by Robert C. Martin.](https://www.amazon.ca/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882)
@@ -77,11 +77,11 @@ In my free time, I enjoy playing sports, listening to music and visiting local c
 
 ### Personal Development
 1. [Mindset by Carol S, Dweck.](https://www.goodreads.com/en/book/show/40745)
-2. [The 7 Habits of Highly Effective People by Stephen Covey](https://goodreads.com/en/book/show/36072)
-3. [Never Split the Difference by Christopher Voss and Tahl Raz](https://www.goodreads.com/book/show/123857637-never-split-the-difference)
-4. [The intelligent investor by Benjamin Graham.](https://www.goodreads.com/en/book/show/106835)
-5. [The Customer of the Future by Blake Morgan](https://books.google.ca/books/about/The_Customer_of_the_Future.html?id=umd6wwEACAAJ&redir_esc=y)
-6. [How To Talk To Anyone by Leil Lowndes](https://www.goodreads.com/en/book/show/35210)
+2. [The 7 Habits of Highly Effective People by Stephen Covey.](https://goodreads.com/en/book/show/36072)
+3. [Never Split the Difference by Christopher Voss and Tahl Raz.](https://www.goodreads.com/book/show/123857637-never-split-the-difference)
+4. [The Intelligent Investor by Benjamin Graham.](https://www.goodreads.com/en/book/show/106835)
+5. [The Customer of the Future by Blake Morgan.](https://books.google.ca/books/about/The_Customer_of_the_Future.html?id=umd6wwEACAAJ&redir_esc=y)
+6. [How To Talk To Anyone by Leil Lowndes.](https://www.goodreads.com/en/book/show/35210)
 7. [Deep Work by Cal Newport.](https://www.goodreads.com/book/show/25744928-deep-work?ref=nav_sb_ss_1_4)
 8. [Shoe Dog by Phil Knight](https://www.goodreads.com/en/book/show/27220736)
 9. [Who Moved My Cheese by Spencer Johnson.](https://www.goodreads.com/en/book/show/4894)
